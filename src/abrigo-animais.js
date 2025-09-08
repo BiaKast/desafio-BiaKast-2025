@@ -120,8 +120,4 @@ class AbrigoAnimais {
   }
 }
 
-console.log('Módulo AbrigoAnimais carregado.');
-const abrigo = new AbrigoAnimais();
-console.log(abrigo.encontraPessoas('BOLA,LASER', 'SKATE,RATO,BOLA, kkkk', 'Loco,Mimi'))
-
 export { AbrigoAnimais as AbrigoAnimais };
